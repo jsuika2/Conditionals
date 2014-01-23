@@ -35,7 +35,7 @@
       <file leaf-file-name="conditionals_Personal.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals_Personal/conditionals_Personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="315">
+            <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
@@ -53,8 +53,19 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="2220" selection-end="2220" vertical-scroll-proportion="1.1347518" vertical-offset="0" max-vertical-offset="600">
+            <state line="12" column="65" selection-start="348" selection-end="413" vertical-scroll-proportion="0.10638298" vertical-offset="135" max-vertical-offset="600">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Personal/JS/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="1" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,17 +81,17 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Conditionals_Industry/Conditionals_Industry.html" />
-        <option value="$PROJECT_DIR$/Conditionals_Personal/JS/script.js" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/conditionals_Personal.html" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/JS/script.js" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/Conditionals_Wacky.html" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/JS/script.js" />
+        <option value="$PROJECT_DIR$/Conditionals_Personal/JS/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="162" />
-    <option name="y" value="70" />
+    <option name="x" value="164" />
+    <option name="y" value="110" />
     <option name="width" value="1563" />
     <option name="height" value="790" />
   </component>
@@ -161,6 +172,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -217,11 +260,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="162" y="70" width="1563" height="790" extended-state="0" />
-    <editor active="false" />
+    <frame x="164" y="110" width="1563" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33524355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33524355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -273,7 +316,9 @@
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -291,13 +336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/conditionals_Personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Conditionals_Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="285">
@@ -305,16 +343,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/conditionals_Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="441">
-          <folding />
+        <state line="16" column="1" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="2220" selection-end="2220" vertical-scroll-proportion="1.1347518" vertical-offset="0" max-vertical-offset="600">
+        <state line="12" column="65" selection-start="348" selection-end="413" vertical-scroll-proportion="0.10638298" vertical-offset="135" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
