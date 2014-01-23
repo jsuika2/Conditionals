@@ -19,10 +19,12 @@ var cleanUp=prompt("Did Carter clean up his room? (yes or no)","");   //If he cl
 
 
 
-if(booksRead >=minBooksRead & fussyBoy=="no"){
+if(booksRead >=minBooksRead && fussyBoy=="no"){
     console.log("You can watch a movie.");
 
 }else if(cleanUp=="yes")
     console.log("Since you cleaned your room you can still watch a movie, even though you did not read and were fussy.")
 else{
     console.log("Sorry Carter, no movie today");
+
+}
