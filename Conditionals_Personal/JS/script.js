@@ -13,7 +13,7 @@ var eachCar=100;
 
 
 if(amountCarsSold > 10){
-    console.log(bonus);
+    console.log("Bonus of "+"$"+bonus+"$"+  (eachCar * amountCarsSold));
 }else{
-    console.log("No bonus, only "+eachCar * amountCarsSold);
+    console.log("No bonus this month, only "+"$"+eachCar * amountCarsSold);
 }
