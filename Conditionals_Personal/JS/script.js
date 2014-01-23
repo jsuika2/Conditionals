@@ -1,8 +1,10 @@
 //created by Jeremy Suika on jan 23 2014
 //conditionals_personal
 
-//If I sell 10 or more cars I get a $1,000 bonus. So the bonus is conditional on PROMPTS being > 10 cars.
-// the console will display if I make a bonus and exactly how much I make.
+//If I sell 10 or more cars I get a $1,000 bonus. So the bonus is conditional on the displayed PROMPTS being > 10 cars.
+// the console will display if I make a bonus and exactly how much I make for the cars sold.
+
+
 
 alert("You get a bonus for selling 10+ cars each month...."); //The alert to signify exactly what you have to do to get get a bonus
 
