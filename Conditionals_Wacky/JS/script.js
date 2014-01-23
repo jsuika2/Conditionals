@@ -1,7 +1,7 @@
 //created by Jeremy Suika on jan 22 2014
 
 
-// Condition: If Carter reads three or more books he can watch a movie + he is not fussy boy
+// Condition: If my son Carter reads three or more books he can watch a movie + he is not fussy boy
 
 //          but if he cleans his room he can still watch that movie
 
@@ -22,8 +22,8 @@ var cleanUp=prompt("Did Carter clean up his room? (yes or no)","");   //If he cl
 
 
 
-if(booksRead >=minBooksRead && fussyBoy=="no"){     //If the amount of books read is greater then the min, which is 3 then its true and "you can watch a movie."
-    console.log("You can watch a movie.");                //PLUS a Logical Operations &&, as both "books" and "fussy boy" have to true to be right; all or nothing to be true.
+if(booksRead >=minBooksRead && fussyBoy=="no"){     //If the amount of books read is greater then the min, which is 3 then its true and "you can watch a movie. ---
+    console.log("You can watch a movie, Carter.");                //---PLUS a Logical Operations &&, as both "books" and "fussy boy" have to true to be right; all or nothing to be true.
 
                                                     // The prompt "you can watch a movie if he reads and is NOT fussy.
 }else if(cleanUp=="yes")                            // The "Else if Condition" is used if Carter cleans, then a differnt outcome is displayed in the console.
