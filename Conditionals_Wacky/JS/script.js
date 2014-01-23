@@ -19,12 +19,13 @@ var cleanUp=prompt("Did Carter clean up his room? (yes or no)","");   //If he cl
 
 
 
-if(booksRead >=minBooksRead && fussyBoy=="no"){
-    console.log("You can watch a movie.");
+if(booksRead >=minBooksRead && fussyBoy=="no"){     //If the amount of books read is greater then the min, which is 3 then its true and "you can watch a movie."
+    console.log("You can watch a movie.");                //PLUS a Logical Operations &&, as both "books" and "fussy boy" have to true to be right; all or nothing to be true.
 
-}else if(cleanUp=="yes")
-    console.log("Since you cleaned your room you can still watch a movie, even though you did not read and were fussy.")
+                                                    // The prompt "you can watch a movie if he reads and is NOT fussy.
+}else if(cleanUp=="yes")                            // The "Else if Condition" is used if Carter cleans, then a differnt outcome is displayed in the console.
+    console.log("Since you cleaned your room you can still watch a movie, even though you did not read and were fussy.") //the display in the console, if the ELSE IF codition is true.
 else{
-    console.log("Sorry Carter, no movie today");
+    console.log("Sorry Carter, no movie today");    //The end result of the condition if he 1. does not read min books. 2. He is fussy. 3. no room clean;
 
 }
