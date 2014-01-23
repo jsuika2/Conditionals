@@ -11,3 +11,12 @@ var minBooksRead=3;                                                   // This va
 
 var fussyBoy=prompt("Was Carter fussy today? (yes or no)","");        //If he is "fussy"? which will be asked in a yes or no Prompt. Anything other then "NO" will result in a FALSE statement in the conditional part.
 var cleanUp=prompt("Did Carter clean up his room? (yes or no)","");   //If he cleans up his room, which will be asked in a yes or no Prompt.
+
+alert("Carter can watch a movie if he reads at least 3 books and is not fussy today.");
+alert("If he does not read or is fussy, he can watch a movie only if he cleans up his room.")
+
+var booksRead=prompt("How many books did Carter read today?","");
+var minBooksRead=3;
+
+var fussyBoy=prompt("Was Carter fussy today? (yes or no)","");
+var cleanUp=prompt("Did Carter clean up his room? (yes or no)","");
