@@ -16,7 +16,7 @@ alert("If I make enough money from freelance jobs building websites, and have mo
 
 var job=prompt("How much money did I earn doing freelance jobs for people?  (do not put $)");  //Income make from freelance internet jobs
 
-var expen=prompt("How much was my bills this month?  (do not put$)");  //expenses for the month. Expressed from the prompt
+var expen=prompt("How much was my bills this month?  (do not put $)");  //expenses for the month. Expressed from the prompt
 
 var moniter=1200;   // the price of the second moniter I want.
 
@@ -29,7 +29,8 @@ var moniter=1200;   // the price of the second moniter I want.
 }
 */
 
-    ((job-expen) > moniter) ? console.log("I can get the 2nd moniter") :  console.log("I can't get a 2nd moniter")   //this is using the 
+    ((job-expen) > moniter) ? console.log("I can get the 2nd moniter") :  console.log("I can't get a 2nd moniter")   //this is using the Ternary Operations for the
+                                                                                                                           //above statement which I blacked out, tested and works
 
 
 
